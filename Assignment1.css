@@ -16,3 +16,12 @@
   font-variation-settings:
     "wdth" 100;
 }
+.raleway-font{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+ 
